@@ -3,10 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1526321356063">
+      <file name="/Dummy.txt" timestamp="1526325134540">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ProyectoVW/login.html" timestamp="1526323198374">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="8" />
+        <mark key="." line="25" column="8" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ProyectoVW/asesor.html" timestamp="1526325299963">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/PruebaPro/Servicio/index.html" timestamp="1526320742514">
         <mark key="[" line="12" column="13" />
@@ -26,20 +36,35 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
+      <register name="1" type="2">
+        <text encoding="base64">TG9naW4geSBhc2Vzb3IgdmlzdGExCkltYWdlcwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">TG9naW4geSBhc2Vzb3IgdmlzdGExCkltYWdlcwo=</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">PGxpbms+IDxsaW5rIHJlbD0ic3R5bGVzaGVldCIKICAgICAgICAgICAgIGhyZWY9Imh0dHBzOi8vbWF4Y2RuLmJvb3RzdHJhcGNkbi5jb20vYm9vdHN0cmFwLzQuMC4wL2Nzcy9ib290c3RyYXAubWluLmNzcyIKICAgICAgICAgICAgIGludGVncml0eT0ic2hhMzg0LUduNTM4NHhxUTFhb1dYQSswNThSWFB4UGc2Znk0SVd2VE5oMEUyNjNYbUZjSmxTQXdpR2dGQVcvZEFpUzZKWG0iCiAgICAgICAgICAgICBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj4=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJqdW1ib3Ryb24gdGV4dC1jZW50ZXIiPgogICAgICAgIDxoMT5NeSBGaXJzdCBCb290c3RyYXAgUGFnZTwvaDE+CiAgICAgICAgPHA+UmVzaXplIHRoaXMgcmVzcG9uc2l2ZSBwYWdlIHRvIHNlZSB0aGUgZWZmZWN0ITwvcD4KICAgIDwvZGl2PgoKICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CiAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTQiPgogICAgICAgICAgICAgICAgPGgzPkNvbHVtbiAxPC9oMz4KICAgICAgICAgICAgICAgIDxwPkxvcmVtIGlwc3VtIGRvbG9yLi48L3A+CiAgICAgICAgICAgICAgICA8cD5VdCBlbmltIGFkLi48L3A+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tNCI+CiAgICAgICAgICAgICAgICA8aDM+Q29sdW1uIDI8L2gzPgogICAgICAgICAgICAgICAgPHA+TG9yZW0gaXBzdW0gZG9sb3IuLjwvcD4KICAgICAgICAgICAgICAgIDxwPlV0IGVuaW0gYWQuLjwvcD4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS00Ij4KICAgICAgICAgICAgICAgIDxoMz5Db2x1bW4gMzwvaDM+CiAgICAgICAgICAgICAgICA8cD5Mb3JlbSBpcHN1bSBkb2xvci4uPC9wPgogICAgICAgICAgICAgICAgPHA+VXQgZW5pbSBhZC4uPC9wPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CjwvaHRtbD48dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5Pgo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="8" type="8">
         <text>https://github.com/merceeAgCh/My_Proj</text>
       </register>
       <register name="-" type="4">
-        <text>Gpoal</text>
+        <text>ASESOR</text>
       </register>
     </registers>
     <search>
