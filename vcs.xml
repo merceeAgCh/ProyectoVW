@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/merceeAgCh/ProyectoVW" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/BlackrockDigital/startbootstrap-new-age.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\sistemas\IdeaProjects" />
