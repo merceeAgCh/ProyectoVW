@@ -8,10 +8,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ProyectoVW/login.html" timestamp="1526410546032">
-        <mark key="[" line="45" column="21" />
-        <mark key="]" line="45" column="21" />
-        <mark key="." line="45" column="21" />
+      <file name="$USER_HOME$/IdeaProjects/ProyectoVW/login.html" timestamp="1526420436461">
+        <mark key="[" line="12" column="55" />
+        <mark key="]" line="12" column="55" />
+        <mark key="." line="12" column="55" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ProyectoVW/asesor.html" timestamp="1526410748315">
         <mark key="[" line="27" column="50" />
@@ -44,7 +44,7 @@
         <text encoding="base64">IDxjZW50ZXI+CiAgICAgICAgPGRpdiBjbGFzcz0ianVtYm90cm9uIGp1bWJvdHJvbiIgc3R5bGU9ImJhY2tncm91bmQgdHJhbnNwYXJlbnQgIWltcG9ydGFudCI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CiAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaW1hZ2VzL1ZXTG9nLmpwZyIgaGVpZ2h0PSIzMDAiPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8L2NlbnRlcj4=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>300</text>
+        <text>transparent</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">PGRpdiBjbGFzcz0ianVtYm90cm9uIGp1bWJvdHJvbiIgc3R5bGU9ImJhY2tncm91bmQ6dHJhbnNwYXJlbnQgIWltcG9ydGFudCI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPgogICAgICAgICAgICAgICAgICAgIDxjZW50ZXI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSJpbWFnZXMvVldMb2cucG5nIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNyY3NldD0iaW1hZ2VzL1ZXTG9nLnBuZyAzMjB3IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNpemVzPSIobWluLXdpZHRoOiA1NzZweCkgMzMuM3Z3LCAxMDB2dyI+CiAgICAgICAgICAgICAgICAgICAgPC9jZW50ZXI+CiAgICAgICAgICAgICAgICA8L2Rpdj4=</text>
@@ -71,7 +71,7 @@
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
       </register>
       <register name="-" type="4">
-        <text>300</text>
+        <text>transparent</text>
       </register>
     </registers>
     <search>
