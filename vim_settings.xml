@@ -1,0 +1,168 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1526400404329">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ProyectoVW/login.html" timestamp="1526395520053">
+        <mark key="[" line="41" column="77" />
+        <mark key="]" line="41" column="77" />
+        <mark key="." line="41" column="77" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ProyectoVW/asesor.html" timestamp="1526400394685">
+        <mark key="[" line="18" column="50" />
+        <mark key="]" line="18" column="51" />
+        <mark key="." line="18" column="51" />
+        <mark key="^" line="18" column="46" />
+      </file>
+      <file name="$USER_HOME$/Desktop/PruebaPro/Servicio/index.html" timestamp="1526320742514">
+        <mark key="[" line="12" column="13" />
+      </file>
+      <file name="/fragment.java" timestamp="1526394793798">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Gpoald.php/login.html" timestamp="1526316647211">
+        <mark key="[" line="51" column="10" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Gpoald.php/Servicio/index.html" timestamp="1526320192706">
+        <mark key="[" line="0" column="6" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">CjwhRE9DVFlQRSBodG1sPgo8aHRtbD4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJ1dGYtOCI+CiAgICA8dGl0bGU+SHlQPC90aXRsZT4KICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MSI+CjwvaGVhZD4KPGJvZHk+CjxkaXYgY2xhc3M9ImNvbnRhaW5lci1mbHVpZCI+CjxjZW50ZXI+CiAgICA8cGljdHVyZT4KICAgICAgICA8aW1nIHNyYz0iaW1hZ2VzL2FsZGVuLnBuZyIKICAgICAgICAgICAgIHNyY3NldD0iaW1hZ2VzL2FsZGVuLnBuZyAzMjB3IgogICAgICAgICAgICAgc2l6ZXM9IihtaW4td2lkdGg6IDU3NnB4KSAzMy4zdncsIDEwMHZ3Ij4KCiAgICA8L3BpY3R1cmU+CgoKICAgIDxicj48YnI+PGJyPjxicj48YnI+PGJyPjxicj48YnI+CiAgICA8Zm9ybSBpZGFjdGlvbj2TPGluZ3Jlc2FyLnBocJQgbWV0aG9kPZNQT1NUlD4KICAgICAgICA8aW5wdXQgdHlwZT2TdGV4dJQgcGxhY2Vob2xkZXI9k3VzdWFyaW+UIG5hbWU9k3R4dHVzdWFyaW+ULz4KCiAgICAgICAgPGlucHV0IHR5cGU9k3Bhc3N3b3JklCBwbGFjZWhvbGRlcj2TY29udHJhc2XxYZQgbmFtZT2TdHh0cGFzc3dvcmSULz4KICAgICAgICA8YnI+PGJyPjxicj48YnI+CgogICAgICAgIDxkaXYgY2xhc3M9ImJ1dHRvbiI+CgogICAgICAgICAgICA8IS0tIDxpbnB1dCB0eXBlPSJpbWFnZSIgbmFtZT0idnciIHNyYz0iaW1hZ2VzL2xvZ28uanBnIgogICAgICAgICAgICAgICAgICAgIHdpZHRoPSI1MCIKICAgICAgICAgICAgICAgICAgICBoZWlnaHQ9IjUwIj4tLT4KICAgICAgICAgICAgPGEgaHJlZj0iaW5kZXguaHRtbCI+CiAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaW1hZ2UiIG5hbWU9InZ3IiBzcmM9ImltYWdlcy9sb2dvLmpwZyIKICAgICAgICAgICAgICAgICAgICAgICB3aWR0aD0iNTAiIGhlaWdodD0iNTAiPjwvYT4KCiAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CgoKICAgIDwvZm9ybT4KCjwvY2VudGVyPgo8Y2VudGVyPgogICAgPG1hcnF1ZWU+U2F0aXNmYWNjafNuIHRvdGFsPC9tYXJxdWVlPgo8L2NlbnRlcj4=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LS0+</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">TG9naW4geSBhc2Vzb3IgdmlzdGExCkltYWdlcwo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">PGxpbms+IDxsaW5rIHJlbD0ic3R5bGVzaGVldCIKICAgICAgICAgICAgIGhyZWY9Imh0dHBzOi8vbWF4Y2RuLmJvb3RzdHJhcGNkbi5jb20vYm9vdHN0cmFwLzQuMC4wL2Nzcy9ib290c3RyYXAubWluLmNzcyIKICAgICAgICAgICAgIGludGVncml0eT0ic2hhMzg0LUduNTM4NHhxUTFhb1dYQSswNThSWFB4UGc2Znk0SVd2VE5oMEUyNjNYbUZjSmxTQXdpR2dGQVcvZEFpUzZKWG0iCiAgICAgICAgICAgICBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj4=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJqdW1ib3Ryb24gdGV4dC1jZW50ZXIiPgogICAgICAgIDxoMT5NeSBGaXJzdCBCb290c3RyYXAgUGFnZTwvaDE+CiAgICAgICAgPHA+UmVzaXplIHRoaXMgcmVzcG9uc2l2ZSBwYWdlIHRvIHNlZSB0aGUgZWZmZWN0ITwvcD4KICAgIDwvZGl2PgoKICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CiAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTQiPgogICAgICAgICAgICAgICAgPGgzPkNvbHVtbiAxPC9oMz4KICAgICAgICAgICAgICAgIDxwPkxvcmVtIGlwc3VtIGRvbG9yLi48L3A+CiAgICAgICAgICAgICAgICA8cD5VdCBlbmltIGFkLi48L3A+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tNCI+CiAgICAgICAgICAgICAgICA8aDM+Q29sdW1uIDI8L2gzPgogICAgICAgICAgICAgICAgPHA+TG9yZW0gaXBzdW0gZG9sb3IuLjwvcD4KICAgICAgICAgICAgICAgIDxwPlV0IGVuaW0gYWQuLjwvcD4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS00Ij4KICAgICAgICAgICAgICAgIDxoMz5Db2x1bW4gMzwvaDM+CiAgICAgICAgICAgICAgICA8cD5Mb3JlbSBpcHN1bSBkb2xvci4uPC9wPgogICAgICAgICAgICAgICAgPHA+VXQgZW5pbSBhZC4uPC9wPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CjwvaHRtbD48dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5Pgo=</text>
+      </register>
+      <register name="9" type="8">
+        <text>https://github.com/merceeAgCh/My_Proj</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">LS0+</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
